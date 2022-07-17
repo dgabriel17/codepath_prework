@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/fdxLlv7snK' title='App Gif' width='' alt='App Gif' />
+<img src="https://recordit.co/fdxLlv7snK" title='App Gif' width='' alt='App Gif' />
 
 GIF created with [Recordit](https://recordit.co/).
 
